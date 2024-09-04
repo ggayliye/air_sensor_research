@@ -1,7 +1,9 @@
-# Research: NOVEL LOW-COST, HIGH-PERFORMANCE RESISTIVE SENSOR INTERFACE TECHNOLOGIES FOR PPB-LEVEL CHEMICAL DETECTION IN SMART-CITIES
+# Research: Novel Low-Cost, High-Performance Resistive Sensor Interface Technologies For Ppb-Level Chemical Detection In Smart-Cities
 
 Authors : Kyle G. Gayliyev <br>
+Mentor: Prof. Pierre-Emmanuel Gaillardon 
 Date: 26-Aug-2024<br>
+Organization: The University of Utah
 Course: ECE 6780 - Research Project, ECE Department, The University of Utah<br>
 GitHub IDs: ggayliye <br>
 Repo: https://github.com/ggayliye/air_sensor_research <br>
@@ -22,8 +24,9 @@ Copyright: ECE 6780, Kyle G. Gayliyev - This work may not be copied for use in A
 - Participated in the team socializing activity.
 
 <ins>Week2 Notes:</ins> <br>
-By March 17st, 2024 :<br>
-- 
+
+- On Wed Sep 3rd, 2024: Started reading the topic related PhD student thesis
+- On Thu Sep 4th, 2024: Met with the scientist who leads the project 
 
 
 
@@ -31,10 +34,10 @@ By March 17st, 2024 :<br>
 <pre><ins>Future extensions</ins> :  </pre>
 
 # Time Expenditures:
-<pre>Lab05: Predicted Hours: 12h		Actual Hours:	13h		 </pre>
+<pre>Predicted Hours: 84h		Actual Hours:	will be updated		 </pre>
 
-The actual hours recorded on top reflect the time spent for the assignment including the time 
-spent in labs. .
+The actual hours recorded on top reflect the time spent for the project including the time 
+spent in labs.
 
 # Partnership
 
