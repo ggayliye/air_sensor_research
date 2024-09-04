@@ -28,6 +28,3 @@ thanks to our new *resistance* *to* *digital* interface and emerging nanofiber s
 N/A
 
 
-## Useful Abbreviations
-- ppb : Part Per Billion
-- SWaP: Size, Weight, and Power
