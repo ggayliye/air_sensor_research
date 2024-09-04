@@ -23,6 +23,7 @@ thanks to our new *resistance* *to* *digital* interface and emerging nanofiber s
 in a motor every half cycle, which allows the motor to rotate
 - spurious: false, fake
 
+On Wed Sep 9th, read the dissertation until the title, "1.4 Dissertation Contributions".
 
 ## Comments:
 
