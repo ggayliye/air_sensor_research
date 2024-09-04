@@ -20,13 +20,13 @@ Copyright: ECE 6780, Kyle G. Gayliyev - This work may not be copied for use in A
 
 - Met with the professor, discussed about the project.
 - Met with the team
-- Met with the team leader about the project and logistics of working in the peoject.
+- Met with the team leader Corinne Garcia about the project and logistics of working in the peoject.
 - Participated in the team socializing activity.
 
 <ins>Week2 Notes:</ins> <br>
 
-- On Wed Sep 3rd, 2024: Started reading the topic related PhD student thesis
-- On Thu Sep 4th, 2024: Met with the scientist who leads the project 
+- On Wed Sep 3rd, 2024: Started reading the topic related the PhD student, Matthieu Couriol's, thesis/dissertation
+- On Thu Sep 4th, 2024: Met with the scientist Raven who leads the project 
 
 
 
