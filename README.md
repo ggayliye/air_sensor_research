@@ -4,11 +4,11 @@ Authors : Kyle G. Gayliyev <br>
 Mentor: Prof. Pierre-Emmanuel Gaillardon <br>
 Date: 26-Aug-2024<br>
 Organization: The University of Utah <br>
-Course: ECE 6780 - Research Project, ECE Department, The University of Utah<br>
+Course: ECE6950 - Research Project, ECE Department, The University of Utah<br>
 GitHub IDs: ggayliye <br>
 Repo: https://github.com/ggayliye/air_sensor_research <br>
 Date: By 10-December-2024 (Time of when submission is due/will be ready to be evaluated)<br>
-Copyright: ECE 6780, Kyle G. Gayliyev - This work may not be copied for use in Academic Coursework.
+Copyright: ECE6950, Kyle G. Gayliyev - This work may not be copied for use in Academic Coursework.
 
 ## Overview of the project
 
@@ -55,10 +55,10 @@ N/A
 - ppb : Part Per Billion
 - SWaP: Size, Weight, and Power
 
-![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/img/1.jpg)
-![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/img/2.jpg)
-![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/img/3.jpg)
-![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/img/4.jpg)
+![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/.img/1.jpg)
+![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/.img/2.jpg)
+![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/.img/3.jpg)
+![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/.img/4.jpg)
 
 # References:
 1. 
