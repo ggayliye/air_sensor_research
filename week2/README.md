@@ -25,6 +25,11 @@ in a motor every half cycle, which allows the motor to rotate
 
 On Wed Sep 9th, read the dissertation until the title, "1.4 Dissertation Contributions".
 
+<ins>Sep 5th, 2024 :</ins> <br>
+
+- Reading "ToxicGasDetection_summary.docx".
+
+
 ## Comments:
 
 N/A
