@@ -1,7 +1,7 @@
 # Research: Novel Low-Cost, High-Performance Resistive Sensor Interface Technologies For Ppb-Level Chemical Detection In Smart-Cities
 
 Authors : Kyle G. Gayliyev <br>
-Mentor: Prof. Pierre-Emmanuel Gaillardon <br>
+Mentor: Prof. Pierre-Emmanuel Gaillardon, Raven Reitstetter <br>
 Date: 26-Aug-2024<br>
 Organization: The University of Utah <br>
 Course: ECE6950 - Research Project, ECE Department, The University of Utah<br>
@@ -28,7 +28,7 @@ Copyright: ECE6950, Kyle G. Gayliyev - This work may not be copied for use in Ac
 - On Wed Sep 3rd, 2024: Started reading the topic related the PhD student, Matthieu Couriol's, thesis/dissertation
 - On Thu Sep 4th, 2024: Met with the scientist Raven who leads the project 
 
-
+<ins>All weekly updates will be in it's related folder on top. The last week will include imprivemnets from all weeks.</ins> <br>
 
 
 <pre><ins>Future extensions</ins> :  </pre>
@@ -49,7 +49,7 @@ Thank you for evaluating this project. <br>
 Have a wonderful day!
 
 # Consulted Peers:
-N/A
+Matthieu Couriol<br>
 
 
 
@@ -59,7 +59,8 @@ N/A
 ![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/.img/9.jpg)<br>
 
 # References:
-1. 
+1. “Laboratory for Nanointegrated Systems (LNIS).” GitHub, github.com/lnis-uofu. Accessed 11 Sept. 2024. <br>
+
 
 
 ## Useful Abbreviations
