@@ -55,6 +55,11 @@ N/A
 - ppb : Part Per Billion
 - SWaP: Size, Weight, and Power
 
+![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/.img/6.jpg)<br>
+![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/.img/7.jpg)<br>
+![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/.img/8.jpg)<br>
+![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/.img/9.jpg)<br>
+
 ![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/.img/1.jpg)
 ![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/.img/2.jpg)
 ![alt text](https://github.com/ggayliye/air_sensor_research/blob/main/.img/3.jpg)
